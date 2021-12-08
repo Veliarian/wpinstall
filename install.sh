@@ -589,6 +589,5 @@ chown -R $username:$username /var/www/$username
 echo -e "${GREEN}Database user, database and wp-config.php were succesfully created & configured!${NC}"
 sleep 3
 echo -e "Installation & configuration succesfully finished.
-Twitter: @sm0k3net
-e-mail: info@sm0k3.net
+e-mail: yaroslav7p0mazan@gmail.com
 Bye!"
